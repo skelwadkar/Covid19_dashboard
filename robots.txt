@@ -1,1 +1,1 @@
-Sitemap: https://fastpages.fast.ai/sitemap.xml
+Sitemap: https://skelwadkar.github.io/Covid19_dashboard/sitemap.xml
