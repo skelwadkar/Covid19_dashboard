@@ -49,6 +49,22 @@
   
 
   
+      ,"page2": {
+          "title": "",
+          "content": "Welcome to the Covid19 dashboard. The dashboards available in this post are meant to study the growth of Covid19 around the world. . Please click on the link of the dashboard you’d like to visit. . The content of this post is solely for study purposes and should not be used for concluding any medical situations. . Posts .",
+          "url": "https://skelwadkar.github.io/Covid19_dashboard/",
+          "relUrl": "/",
+          "date": ""
+      }
+      
+  
+
+  
+  
+
+  
+
+  
   
 
   
@@ -57,18 +73,13 @@
   
 
   
-
-  
   
 
   
   
 
   
-  
-
-  
-      ,"page9": {
+      ,"page10": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://skelwadkar.github.io/Covid19_dashboard/robots.txt",
